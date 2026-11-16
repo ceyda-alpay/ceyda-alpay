@@ -1,34 +1,70 @@
-# Hi, I'm a Database Administrator 👋
+# Hi, I'm Ceyda! 👋
 
-I'm a Database Administrator with 4+ years of experience in relational, NoSQL, and analytical database systems.
+### Database Administrator | Database Engineering & Reliability
 
-## About Me
+I'm a Database Administrator with 4+ years of experience managing relational, NoSQL, and analytical database systems in enterprise environments.
 
-- 🗄️ Working with SQL Server, MongoDB, Percona Server for MongoDB, and ClickHouse
-- ☁️ Experience with Google Cloud Platform
-- 🐧 Interested in Linux, High Availability, Disaster Recovery, and Database Reliability Engineering
-- 🌱 Currently learning PostgreSQL and infrastructure automation
-- 🔧 Building reproducible database administration labs
+My work focuses on **database reliability, high availability, performance optimization, disaster recovery, and production database operations**.
 
-## Tech Stack
+I enjoy understanding how database systems behave under the hood, troubleshooting complex issues, and finding ways to make infrastructure more reliable, efficient, and maintainable.
 
-**Databases:** SQL Server · MongoDB · ClickHouse
+## 🛠️ Tech Stack
 
-**Cloud:** Google Cloud Platform · Azure Fundamentals
+**Databases**
+- Microsoft SQL Server
+- MongoDB & Percona Server for MongoDB
+- ClickHouse
 
-**Scripting:** SQL · Python · PowerShell
+**Cloud & Infrastructure**
+- Google Cloud Platform (GCP)
+- Microsoft Azure Fundamentals
+- Linux (Ubuntu)
 
-**Operations:** Replication · Backup & Recovery · Monitoring · Performance Tuning
+**Scripting & Tools**
+- SQL, T-SQL, Python, PowerShell
+- Percona Monitoring and Management (PMM)
+- Percona Backup for MongoDB (PBM)
+- Zabbix
 
-## What You'll Find Here
+**Database Operations**
+- High Availability & Replication
+- Backup, Recovery & Disaster Recovery
+- Database Migrations & Upgrades
+- Performance Monitoring & Troubleshooting
+- Index Management & Query Optimization
+- Access Control & Database Security
 
-Hands-on database administration labs, automation scripts, troubleshooting notes, and technical experiments.
+## 🔍 Areas of Experience
 
-## Certifications
+- Administering production database environments across relational and NoSQL technologies.
+- Managing database migrations, upgrades, and maintenance operations.
+- Troubleshooting replication, performance, and availability issues.
+- Working with distributed analytical databases and large-scale data workloads.
+- Supporting backup, recovery, monitoring, and database security operations.
 
-- Microsoft Azure Fundamentals (AZ-900)
-- MongoDB University DBA
+## 🌱 Currently Exploring
 
-## Current Focus
+- PostgreSQL administration and high availability
+- Cloud database engineering
+- Infrastructure as Code and automation
+- Database Reliability Engineering (DBRE)
+- Observability and performance engineering
 
-PostgreSQL · Cloud Databases · Database Reliability · Automation
+## 📂 Projects & Technical Writing
+
+I'm building a collection of hands-on database administration labs, automation scripts, troubleshooting guides, and technical articles.
+
+My goal is to document practical database engineering concepts through reproducible experiments and real-world operational scenarios.
+
+*Projects and technical articles coming soon.*
+
+## 🎓 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- MongoDB University — Database Administrator
+
+## 💡 What Interests Me
+
+I'm particularly interested in the intersection of **database engineering, distributed systems, cloud infrastructure, and reliability engineering**.
+
+I believe good database administration goes beyond keeping systems running — it's about understanding their behavior, anticipating failures, and continuously improving how they operate.
