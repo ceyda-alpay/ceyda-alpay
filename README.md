@@ -2,59 +2,54 @@
 
 ### Database Administrator | Database Engineering & Reliability
 
-I'm a Database Administrator with 4+ years of experience managing relational, NoSQL, and analytical database systems in enterprise environments.
+I'm a Database Administrator with 4+ years of experience working with **Microsoft SQL Server, MongoDB, Percona Server for MongoDB, and ClickHouse** in enterprise environments.
 
-My work focuses on **database reliability, high availability, performance optimization, disaster recovery, and production database operations**.
+My experience includes administering production database environments, managing database migrations and upgrades, troubleshooting replication and performance issues, and supporting high availability and disaster recovery operations.
 
-I enjoy understanding how database systems behave under the hood, troubleshooting complex issues, and finding ways to make infrastructure more reliable, efficient, and maintainable.
+I'm particularly interested in understanding how database systems work under the hood and building reliable, scalable, and maintainable data infrastructure.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-**Databases**
-- Microsoft SQL Server
-- MongoDB & Percona Server for MongoDB
-- ClickHouse
+| Category | Technologies |
+|---|---|
+| **Databases** | Microsoft SQL Server, MongoDB, Percona Server for MongoDB, ClickHouse |
+| **Cloud** | Google Cloud Platform (BigQuery, Cloud Run, Dataflow) |
+| **Scripting** | SQL, T-SQL, Python, PowerShell |
+| **Operating Systems** | Linux (Ubuntu), Windows Server |
+| **Monitoring** | PMM, Zabbix |
+| **Backup & Recovery** | PBM, Commvault |
 
-**Cloud & Infrastructure**
-- Google Cloud Platform (GCP)
-- Microsoft Azure Fundamentals
-- Linux (Ubuntu)
+## ⚙️ Technical Experience
 
-**Scripting & Tools**
-- SQL, T-SQL, Python, PowerShell
-- Percona Monitoring and Management (PMM)
-- Percona Backup for MongoDB (PBM)
-- Zabbix
+### Database Administration & Reliability
+- SQL Server Always On Availability Groups
+- MongoDB replica sets, replication, and database upgrades
+- ClickHouse clusters, ReplicatedMergeTree, and materialized views
+- Backup, recovery, and disaster recovery operations
+- Database migrations and large-scale data management
 
-**Database Operations**
-- High Availability & Replication
-- Backup, Recovery & Disaster Recovery
-- Database Migrations & Upgrades
-- Performance Monitoring & Troubleshooting
-- Index Management & Query Optimization
-- Access Control & Database Security
+### Performance & Troubleshooting
+- Index management and query optimization
+- Replication troubleshooting and operational diagnostics
+- Database performance monitoring
+- Maintenance operations and data retention strategies
 
-## 🔍 Areas of Experience
+### Cloud & Automation
+- Working with Google Cloud services, including BigQuery, Cloud Run, and Dataflow
+- Python and PowerShell scripting for database administration
+- Database access management and security
 
-- Administering production database environments across relational and NoSQL technologies.
-- Managing database migrations, upgrades, and maintenance operations.
-- Troubleshooting replication, performance, and availability issues.
-- Working with distributed analytical databases and large-scale data workloads.
-- Supporting backup, recovery, monitoring, and database security operations.
+## 🌱 Currently Learning
 
-## 🌱 Currently Exploring
-
-- PostgreSQL administration and high availability
-- Cloud database engineering
-- Infrastructure as Code and automation
-- Database Reliability Engineering (DBRE)
-- Observability and performance engineering
+- PostgreSQL administration, replication, and high availability
+- Infrastructure as Code with Terraform and Ansible
+- Cloud database architecture and Database Reliability Engineering (DBRE)
 
 ## 📂 Projects & Technical Writing
 
 I'm building a collection of hands-on database administration labs, automation scripts, troubleshooting guides, and technical articles.
 
-My goal is to document practical database engineering concepts through reproducible experiments and real-world operational scenarios.
+My focus is on documenting practical engineering challenges through reproducible experiments, technical analysis, and well-documented solutions.
 
 *Projects and technical articles coming soon.*
 
@@ -63,8 +58,6 @@ My goal is to document practical database engineering concepts through reproduci
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - MongoDB University — Database Administrator
 
-## 💡 What Interests Me
+## 🎯 Professional Interests
 
-I'm particularly interested in the intersection of **database engineering, distributed systems, cloud infrastructure, and reliability engineering**.
-
-I believe good database administration goes beyond keeping systems running — it's about understanding their behavior, anticipating failures, and continuously improving how they operate.
+Database Engineering · Distributed Systems · High Availability · Disaster Recovery · Cloud Infrastructure · Database Reliability Engineering
